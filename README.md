@@ -1,6 +1,6 @@
 # Lumina Tech Analytics
 
-A comprehensive data analytics project showcasing skills in exploratory data analysis, statistical testing, and predictive modeling. This project highlights expertise in data cleaning, analysis, and visualization, offering actionable insights for decision-making.
+A comprehensive data analytics project showcasing skills in exploratory data analysis, statistical testing, and predictive modeling. This project highlights expertise in data cleaning, analysis, and visualisation, offering actionable insights for decision-making.
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains:
 - **Exploratory Data Analysis (EDA)**: Uncovering patterns, trends, and insights.
 - **Statistical Testing**: Validating hypotheses with robust methods.
 - **Predictive Modeling**: Machine learning models for forecasting outcomes.
-- **Visualizations**: Presenting findings through compelling charts and graphs.
+- **Visualisations**: Presenting findings through compelling charts and graphs.
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains:
 
 - `raw_data.zip`: Compressed original dataset.
 - `cleaned_data.zip`: Preprocessed dataset for analysis.
-- `Overall.ipynb`: Exploratory analysis and visualizations.
+- `Overall.ipynb`: Exploratory analysis and visualisations.
 - `Section_2_and_3.ipynb`: Analysis of specific data sections.
 - `Section_2_and_3_Part2.ipynb`: Advanced statistical and predictive modeling.
 - `requirements.txt`: Python dependencies for the project.
@@ -31,7 +31,7 @@ This repository contains:
 
 1. **End-to-End Data Pipeline**: From raw data preprocessing to generating insights.
 2. **Actionable Insights**: Business-focused recommendations based on analysis.
-3. **Interactive Visualizations**: Charts and graphs for impactful storytelling.
+3. **Interactive Visualisations**: Charts and graphs for impactful storytelling.
 4. **Machine Learning Models**: Predictive modeling with performance evaluation.
 
 ---
@@ -40,14 +40,14 @@ This repository contains:
 
 ### Exploratory Data Analysis
 - Identified **seasonal trends** and **customer behavior patterns**.
-- Analyzed **profit margins** across districts.
+- Analysed **profit margins** across districts.
 
 ### Statistical Testing
-- Conducted **t-tests** to validate performance differences in datasets.
+- Conducted **t-tests** to validate performance differences in datasets across different districts, products, productivity (i.e., delivery time).
 
 ### Predictive Modeling
-- Built a **machine learning model** with **85% accuracy** for churn prediction.
-- Visualized **feature importance** to derive actionable insights.
+- Built a **machine learning model** with approximately **80% accuracy** for churn prediction.
+- Visualised **feature importance** to derive actionable insights.
 
 ---
 
@@ -55,7 +55,7 @@ This repository contains:
 
 - **Programming Languages**: Python
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
-- **Tools**: JupyterLab, GitHub
+- **Tools**: JupyterNotebook, GitHub
 
 ---
 
